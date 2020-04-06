@@ -15,7 +15,7 @@
         <rect id="path-5" x="2" y="15" width="43" height="49"></rect>
         <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-1.7" y="-1.7" width="46.4" height="52.4">
             <rect x="0.3" y="13.3" width="46.4" height="52.4" fill="white"></rect>
-            <use xlink:href="#path-5" fill="black"></use>
+            <use xlink:href="#path-5" fill="$fourth-color"></use>
         </mask>
     </defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
