@@ -136,7 +136,7 @@ body {
   border-radius: 0.5em;
 }
 
-.banner #search_btn {
+.banner #search-btn {
   cursor: pointer;
   border-radius: 0.5em;
   background-color: #FF0000;
@@ -534,7 +534,7 @@ footer .social ul {
     width: 350px;
     left: 100px;
   }
-  .banner .search-restaurant #search_btn {
+  .banner .search-restaurant #search-btn {
     width: 250px;
     border: none;
     margin-top: 10px;
