@@ -176,7 +176,7 @@ body {
   width: 90%;
 }
 
-.Container .search-del {
+.Container #search-del {
   width: 75%;
   border: 1px solid black;
   border-radius: 5px;
