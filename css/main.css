@@ -176,7 +176,7 @@ body {
   width: 90%;
 }
 
-.Container #search-del {
+.Container .search-del {
   width: 75%;
   border: 1px solid black;
   border-radius: 5px;
@@ -263,7 +263,7 @@ body {
 }
 
 .localities {
-  height: 400px;
+  height: 500px;
   width: 90%;
   padding-left: 3%;
   -ms-flex-pack: distribute;
@@ -674,10 +674,12 @@ footer .social ul {
   }
   .localities #locality-list2 {
     text-align: left;
+    padding-top: 20px;
   }
   .localities #locality-list3 {
     text-align: left;
     padding-left: 60px;
+    padding-top: 20px;
   }
   .container {
     padding-top: 20px;

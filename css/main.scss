@@ -156,7 +156,7 @@ height: 35px;
   background-color: cornsilk;
   width: 90%;
 }
-#search-del {
+.search-del {
   width: 75%;
   border: 1px solid $fourth-color;
   border-radius: 5px;
@@ -251,7 +251,7 @@ height: 35px;
   display: none;
 }
 .localities{
-  height: 400px;
+  height: 500px;
   width: 90%;
   padding-left: 3%;
   justify-content: space-around;
@@ -270,6 +270,7 @@ height: 35px;
   justify-content: space-evenly;
   list-style: none;
   text-align: left;
+ 
   }
   #locality-list2{
     @extend #locality-list1
@@ -658,11 +659,13 @@ padding-top: 60px;
   }
   #locality-list2{
     text-align: left;
+    padding-top: 20px;
   }
   #locality-list3{
 
 text-align: left;
 padding-left: 60px;
+padding-top: 20px;
   }
 }  
 .container {
